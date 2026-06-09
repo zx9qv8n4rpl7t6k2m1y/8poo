@@ -5,17 +5,8 @@
 
 <html>
 <head>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-7FN7LEVWXD"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'G-7FN7LEVWXD');
-        </script>
-
     <meta charset="UTF-8" />
-	<title>There Is No Game | Seraph</title>
+	<title>There Is No Game </title>
 	
 	<!-- Allow fullscreen mode on iOS devices. (These are Apple specific meta tags.) -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
@@ -55,9 +46,9 @@
 			<a href="http://www.apple.com/safari/download/">Apple Safari</a><br/>
 		</canvas>
 	</div>
-	<script src="js/jquery-2.1.1.min.js"></script>
-	<script src="js/c2runtime.js"></script>
-    <script src="js/c2webappstart.js"></script>
+	<script src="https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/thereisnogame/js/jquery-2.1.1.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/thereisnogame/js/c2runtime.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/a456pur/seraph@main/games/thereisnogame/js/c2webappstart.js"></script>
 </body> 
 </html> 
 
